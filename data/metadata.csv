@@ -1,5 +1,6 @@
-pid,label,autor,fecha
-AdriaenCollaert,America Tortuga,Adriaen Collaert,1586
-JohannSadeler,America Loro,Johann Sadeler,1581
-PhilipsGalle,America Composición,Philips Galle,1547
-PhilipsGalle2,America Cabeza,Philips Galle,1585
+pid,label,autores,fecha,ciudad,pais,tipo_principal
+ar-mtgc-fgc-ca-1922_01,Madre cosiendo,Gustavo Cochet,1922,París,Francia,Obra de arte
+ar-mtgc-fgc-ca-1924_01,Feria callejera,Gustavo Cochet,1924,París,Francia,Obra de arte
+ar-mtgc-fgc-ca-1927_01,Francisca a los 27 años,Gustavo Cochet,1927,París,Francia,Obra de arte
+ar-mtgc-fgc-ca-1928_01,Cantores populares,Gustavo Cochet,1928,París,Francia,Obra de arte
+ar-mtgc-fgc-ca-1927_02,Naturaleza Muerta,Gustavo Cochet,1927,París,Francia,Obra de arte

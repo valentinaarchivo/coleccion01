@@ -1,0 +1,15 @@
+{
+  "id": "https://valentinaarchivo.github.io/coleccion01/iiif/ar-mtgc-fgc-ca-1924_01/manifest/image-0.json",
+  "items": [],
+  "type": "Annotation",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "motivation": "painting",
+  "target": "https://valentinaarchivo.github.io/coleccion01/iiif/ar-mtgc-fgc-ca-1924_01/manifest/canvas-0.json",
+  "body": {
+    "id": "https://valentinaarchivo.github.io/coleccion01/iiif/ar-mtgc-fgc-ca-1924_01/0/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 894,
+    "width": 700
+  }
+}
